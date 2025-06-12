@@ -11,8 +11,5 @@
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
 </p>
 
-## 📜Languages
-<img src="https://github-readme-stats.vercel.app/api?username=minchang0116&theme=radical" />
-
 ## 💻BOJ
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=new5162" />
